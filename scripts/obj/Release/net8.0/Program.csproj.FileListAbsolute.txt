@@ -1,0 +1,14 @@
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\bin\Release\net8.0\DrIP-Preprocessor.exe
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\bin\Release\net8.0\DrIP-Preprocessor.deps.json
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\bin\Release\net8.0\DrIP-Preprocessor.runtimeconfig.json
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\bin\Release\net8.0\DrIP-Preprocessor.dll
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\bin\Release\net8.0\DrIP-Preprocessor.pdb
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\Program.AssemblyInfo.cs
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\DrIP-Preprocessor.dll
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\refint\DrIP-Preprocessor.dll
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\DrIP-Preprocessor.pdb
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\Program.genruntimeconfig.cache
+C:\Users\OJL3734\OneDrive - HCA Healthcare\Desktop\DrIP Preprocessor\scripts\obj\Release\net8.0\ref\DrIP-Preprocessor.dll

@@ -1,0 +1,1 @@
+Delete this txt file once pulled from github. this folder should be empty before running the program.
